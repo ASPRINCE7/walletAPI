@@ -12,17 +12,17 @@ The project utilizes the **Git Flow model**, encompassing the following branches
 - **`logging/prince`**: Dedicated branch for adding logging functionality.
 
 ## 📂 Project Structure
-walletAPI/
-├── src/
-│ ├── main/
-│ │ ├── java/com/edureka/wallet/
-│ │ │ ├── api/ → Interfaces
-│ │ │ ├── Impl/ → Implementations
-│ │ │ ├── model/ → Data models
-│ │ │ └── WalletApiApplication.java
-│ ├── resources/ → Configuration files
-│ └── test/ → Unit tests
-└── pom.xml
+walletAPI/ <br>
+├── src/ <br>
+│ ├── main/ <br>
+│ │ ├── java/com/edureka/wallet/ <br>
+│ │ │ ├── api/ → Interfaces <br>
+│ │ │ ├── Impl/ → Implementations <br>
+│ │ │ ├── model/ → Data models <br>
+│ │ │ └── WalletApiApplication.java  <br>
+│ ├── resources/ → Configuration files <br>
+│ └── test/ → Unit tests <br> 
+└── pom.xml <br>
 
 
 ## 🛠 Features Implemented
